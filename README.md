@@ -51,5 +51,3 @@ npm start
 4. Book a session and leave feedback
 
 ---
-* Add **screenshots, badges, or demo GIFs** to visually showcase the project.
-* Mention the **tech stack** and how to contribute if you want collaborators.
